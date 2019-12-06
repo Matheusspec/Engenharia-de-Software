@@ -29,16 +29,21 @@ Protótipo do Adm:
 https://marvelapp.com/4g6d42d/screen/61960705  
 
 Custo do Projeto:
+
 Projeto Pronto: R$ 7000
+
 Custos de hospedagem: R$ 100,00
+
 Custos para coworking: R$ 1000,00
+
 Customização(genérica): R$ 621,00
+
 Customização(específica): R$ 1065,60
+
 Manutenção: R$ 570,00
+
 Total(customizado): R$ 8721,00 ou R$ 9186,00
+
 Total(genérico): R$ 8121,00
+
 Despesas mensais: R$ 1100,00
-
-
-
-
