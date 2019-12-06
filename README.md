@@ -49,6 +49,7 @@ Total(genérico) e pré-definido: R$ 8721,00
 Manutenção: R$ 523,00
 
 
+
 Método:
 
 Pontos de função e complexidade:
@@ -59,9 +60,13 @@ Interações -------------------------complexidade-baixa
 
 API’s ------------------------------complexidade-média
 
+
+
 Customização:
 
 Modificação de telas, implementação de API’s e interações -> Valor calculado por pontos de função.
+
+
 
 Manutenção:
 
