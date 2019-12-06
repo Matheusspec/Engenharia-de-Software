@@ -30,23 +30,43 @@ https://marvelapp.com/4g6d42d/screen/61960705
 
 Custo do Projeto:
 
-Projeto Pronto: R$ 7000
+Custo do projeto + margem de 20%: R$ 7000
 
-Custos de hospedagem: R$ 100,00
+Hospedagem: R$ 100,00
 
-Custos para coworking: R$ 1000,00
+Custos para coworking (equipe): R$ 1000,00
 
-Customização(genérica): R$ 621,00
+Customização genérica (cor, layout): R$ 621,00
 
-Customização(específica): R$ 1065,60
+Customização específica (telas, API’s): R$ 1065,60
 
-Manutenção: R$ 570,00
+Total(customizado) e pré-definido: R$ 9165,00
 
-Total(customizado): R$ 8721,00 ou R$ 9186,00
+Manutenção: R$ 550,00
 
-Total(genérico): R$ 8121,00
+Total(genérico) e pré-definido: R$ 8721,00
 
-Despesas mensais: R$ 1100,00
+Manutenção: R$ 523,00
+
+
+Método:
+
+Pontos de função e complexidade:
+
+Construção das telas ------------complexidade-baixa
+
+Interações -------------------------complexidade-baixa
+
+API’s ------------------------------complexidade-média
+
+Customização:
+
+Modificação de telas, implementação de API’s e interações -> Valor calculado por pontos de função.
+
+Manutenção:
+
+Nesse caso 6% do valor total.
+
 
 
 
