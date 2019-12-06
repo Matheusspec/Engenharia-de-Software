@@ -14,7 +14,7 @@ Requisitos funcionais
 
 Requisitos não funcionais
 
-[RF01] – O sistema deve Exibir um relatório de visitas da semana.
+[RF01] – O sistema deverá permitir interação com os aplicativos de mensagens e ligação.
 
 [RF02] – O sistema armazenará informações em um serviço remoto.
 
